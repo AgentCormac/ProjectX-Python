@@ -1,0 +1,11 @@
+#
+# gitignore for Python development project
+#
+# ProjectX-Python
+#
+# Mark Higginbottom
+#
+*.swp
+*.pyc
+tags
+.coverage
